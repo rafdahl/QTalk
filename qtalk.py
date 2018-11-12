@@ -5,8 +5,6 @@ import threading
 import select
 import time
 import argparse
-from colorama import Fore, Back, Style
-
 
 def main():
 
